@@ -1,2 +1,4 @@
 # apna_college
-hey my dear friend
+This is my first Git Reposatory.
+<br>
+Author - Suraj gautam
